@@ -4,7 +4,7 @@ import{Article,Brand,CTA} from "./components";
 const App = () => {
   return (
     <div>
-      <h1>GPT-3</h1>
+      <h1>GPT-4</h1>
       </div>
   )
 }
